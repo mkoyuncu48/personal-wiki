@@ -1,5 +1,3 @@
-# personal-wiki
-
 Hello! I’m Mustafa Koyuncu, a Computer Engineering Undergrad at Boğaziçi University (2022–2027). I enjoy dividing big challenging tasks into smaller ones and conquering them one by one. I like working with low-level architecture and digital design.
 
 Location: Istanbul, Turkey
